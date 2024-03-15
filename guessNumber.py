@@ -39,7 +39,7 @@ while(True):
             print(cl.Fore.GREEN+"The Number was: ", rand)
             break;
         if guess == 0:
-            continue;
+            break;
     else:
         break
             
