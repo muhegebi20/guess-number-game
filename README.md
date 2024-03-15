@@ -1,2 +1,2 @@
 # guess-number-game
-#this is an easy python code to guess a number
+#this is an easy python code to play the number guess
