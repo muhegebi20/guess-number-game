@@ -35,7 +35,7 @@ while(True):
             break;
         print(cl.Fore.RED+"-->guess left:", chanceLeft)
         if(chanceLeft == 0):
-            print(cl.Fore.RED+"you lose):")
+            print(cl.Fore.RED+"you lost):")
             print(cl.Fore.GREEN+"The Number was: ", rand)
             break;
         if guess == 0:
